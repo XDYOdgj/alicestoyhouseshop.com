@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alicestoyhouseshop.com/sitemap.xml
